@@ -3,7 +3,7 @@
 DevFolio is a responsive and modern personal portfolio website template built with HTML, CSS, Bootstrap, and Font Awesome. It's perfect for showcasing a developer's skills, projects, testimonials, and blog content.
 
 ## 🔍 Preview
-
+ ![DevFolio Preview](./imgs/Devfolio-05-01-2025_08_57_PM.png)  
 
 ## 🚀 Features
 
